@@ -33,5 +33,5 @@ var capacitorPlugin = (function (exports, core) {
 
     return exports;
 
-}({}, capacitorExports));
+})({}, capacitorExports);
 //# sourceMappingURL=plugin.js.map

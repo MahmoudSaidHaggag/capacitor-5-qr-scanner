@@ -1,5 +1,5 @@
 {
-  "name": "@diningcity/capacitor-5-qr-scanner",
+  "name": "@mhaggag/capacitor-5-qr-scanner",
   "version": "0.0.11",
   "description": "A Capacitor plug in to scan QR Codes",
   "main": "dist/plugin.js",
@@ -56,7 +56,7 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diningcity-group/capacitor-qr-scanner"
+    "url": "https://github.com/MahmoudSaidHaggag/capacitor-5-qr-scanner"
   },
   "bugs": {
     "url": "https://github.com/diningcity-group/capacitor-qr-scanner/issues"
