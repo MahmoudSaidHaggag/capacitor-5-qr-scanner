@@ -1,5 +1,5 @@
 {
-  "name": "@mhaggag/capacitor-5-qr-scanner",
+  "name": "@haggag641/capacitor-5-qr-scanner",
   "version": "0.0.11",
   "description": "A Capacitor plug in to scan QR Codes",
   "main": "dist/plugin.js",
